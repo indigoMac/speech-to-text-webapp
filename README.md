@@ -34,7 +34,7 @@ This repository contains a text-to-speech web application built using Flask for 
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/speech-to-text-webapp.git
-   cd speech-to-text-webapp/backend
+   cd text-to-speech-webapp/backend
    ```
 
 2. Create a virtual environment and activate it:
