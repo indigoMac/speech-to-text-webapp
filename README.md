@@ -115,34 +115,34 @@ This repository contains a text-to-speech web application built using Flask for 
 
 ## Project Structure
 
-speech-to-text-webapp/
-├── backend/
-│ ├── app.py
-│ ├── requirements.txt
-│ ├── templates/
-│ │ └── index.html
-│ ├── static/
-│ │ └── output.mp3
-│ └── texttospeech-credentials.json
-├── frontend/
-│ └── tts-react-app/
-│ ├── public/
-│ │ ├── index.html
-│ │ └── textToSpeech.png
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── PitchRateInput.js
-│ │ │ ├── SelectInput.js
-│ │ │ ├── TextInput.js
-│ │ │ ├── TextToSpeech.css
-│ │ │ └── TextToSpeech.js
-│ │ ├── App.css
-│ │ ├── App.js
-│ │ ├── index.js
-│ ├── .gitignore
-│ ├── package.json
-│ └── README.md
-└──
+speech-to-text-webapp/  <br />
+├── backend/  <br />
+│ ├── app.py <br />
+│ ├── requirements.txt <br />
+│ ├── templates/ <br />
+│ │ └── index.html <br />
+│ ├── static/ <br />
+│ │ └── output.mp3 <br />
+│ └── texttospeech-credentials.json <br />
+├── frontend/ <br />
+│ └── tts-react-app/ <br />
+│ ├── public/ <br />
+│ │ ├── index.html <br />
+│ │ └── textToSpeech.png <br />
+│ ├── src/ <br />
+│ │ ├── components/ <br />
+│ │ │ ├── PitchRateInput.js <br />
+│ │ │ ├── SelectInput.js <br />
+│ │ │ ├── TextInput.js <br />
+│ │ │ ├── TextToSpeech.css <br />
+│ │ │ └── TextToSpeech.js <br />
+│ │ ├── App.css <br />
+│ │ ├── App.js <br />
+│ │ ├── index.js <br />
+│ ├── .gitignore <br />
+│ ├── package.json <br />
+│ └── README.md <br />
+└── <br />
 
 ## Contributing
 
