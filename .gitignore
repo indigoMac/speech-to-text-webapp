@@ -4,7 +4,7 @@ backend/texttospeech-427216-5880634db723.json
 
 # dependencies
 frontend/tts-react-app/node_modules
-frontend/tts-react-app//.pnp
+frontend/tts-react-app/.pnp
 frontend/tts-react-app/.pnp.js
 
 # testing
@@ -23,3 +23,29 @@ frontend/tts-react-app//build
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+frontend/tts-react-app/node_modules
+frontend/tts-react-app/build
+frontend/tts-react-app/.pnp
+frontend/tts-react-app/.pnp.js
+frontend/tts-react-app/coverage
+frontend/tts-react-app/.DS_Store
+frontend/tts-react-app/.env.local
+frontend/tts-react-app/.env.development.local
+frontend/tts-react-app/.env.test.local
+frontend/tts-react-app/.env.production.local
+frontend/tts-react-app/npm-debug.log*
+frontend/tts-react-app/yarn-debug.log*
+frontend/tts-react-app/yarn-error.log*
+frontend/tts-react-app/node_modules
+frontend/tts-react-app/build
+frontend/tts-react-app/.pnp
+frontend/tts-react-app/.pnp.js
+frontend/tts-react-app/coverage
+frontend/tts-react-app/.DS_Store
+frontend/tts-react-app/.env.local
+frontend/tts-react-app/.env.development.local
+frontend/tts-react-app/.env.test.local
+frontend/tts-react-app/.env.production.local
+frontend/tts-react-app/npm-debug.log*
+frontend/tts-react-app/yarn-debug.log*
+frontend/tts-react-app/yarn-error.log*
