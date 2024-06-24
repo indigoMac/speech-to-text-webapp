@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Text-to-Speech</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Text-to-Speech</h1>
+      <form action="/speak" method="post">
+        <textarea name="text" rows="4" cols="50"></textarea>
+        <br /><br />
+        <button type="submit">Convert</button>
+      </form>
+      {% if audio_file %}
+      <audio controls>
+        <source src="{{ audio_file }}" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+      {% endif %}
+    </div>
+  </body>
+</html>
